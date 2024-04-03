@@ -1,0 +1,13 @@
+payload:
+  - '+.360.cn'
+  - '+.360.com'
+  - 'installer-drcn.hispace.hihonorcloud.com'
+  - 'gra.hicloud.com'
+  - 'grs.dbankcloud.asia'
+  - 'grs.dbankcloud.cn'
+  - 'grs.dbankcloud.com'
+  - 'grs-dbankcloud-com-dre.appacc.dbankedge.net'
+  - 'grs-dbankcloud.com-dre.appacc.dbankedge.net'
+  - 'grs-dbankcloud-com-dre.appacc-region.dbankedge.net'
+  - 'grs-dbankcloud.com-dre.appacc-region.dbankedge.net'
+  - 'grs.dbankcloud.eu'
